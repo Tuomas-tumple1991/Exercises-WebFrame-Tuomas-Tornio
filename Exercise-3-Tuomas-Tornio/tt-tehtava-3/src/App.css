@@ -1,0 +1,61 @@
+.App
+{
+    display: flex;
+    flex-direction: row;
+    
+    width:33.3%;
+    margin-bottom: auto;
+    margin-left: 20%;
+    
+}
+.paikka
+{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+width:70%;
+margin-left: 20%;
+margin-top: 100px;
+
+}
+
+.haunpaikka
+{
+    
+    display:flex;
+    flex-direction: row;
+    
+   
+    margin-top: 2%;
+    width: 30px;
+    height: 40px;
+    margin-left: 40%;
+    font-size: large;
+    
+}
+.resize
+{
+    display:flex;
+object-fit: scale-down;
+width: 10px;
+height: 10px;
+margin-bottom: 10%;
+}
+.haettutulos
+{
+
+font-size: 20px;
+display: flex;
+flex-direction: row;
+margin-bottom: 10px;
+
+
+}
+
+.pienentaja
+{
+
+    margin-right: 1%;
+    block-size: 1%;
+
+}

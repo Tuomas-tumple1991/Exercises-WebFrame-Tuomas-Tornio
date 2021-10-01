@@ -1,0 +1,99 @@
+.paikka
+{display: flex;
+    flex-direction: column;
+    
+    padding: 10px;
+font-size: 20px;
+text-align: right;
+background-color: white;
+
+margin-top: 0;
+margin-right: auto;
+float: left;
+    display: flex;
+    flex-flow: row wrap;
+    width: 31%;
+    display: flex;
+    flex-direction: column;
+flex-wrap: wrap;
+margin-left: 7.2%;
+text-align: left;
+margin-top: 12;
+
+background-color: white;
+
+margin-right:  auto;
+margin-top: auto;
+}
+
+.sivotso
+{
+    display: flex;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left:  8%;
+    flex-wrap: wrap;
+    margin-top: 1px;
+
+    
+
+}
+
+.sivteksti
+{
+    flex-direction: column;
+    display: flex;
+    font-size: 15px;
+    margin-left:  15%;
+    flex-wrap: wrap;
+   
+    
+}
+
+.tausta3
+{
+
+    
+    width: 100%;
+    
+    background-color: black;
+    padding: 1px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left:  0%;
+}
+.tausta4
+{
+
+
+    width: 60%;
+    
+    background-color: black;
+    padding: 1px;
+    margin-bottom: 1px;
+    margin-top: 1px;
+    margin-left:  1%;
+    
+
+}
+.tausta5
+{
+
+    width: 20%;
+    
+    background-color: rgb(37, 34, 34);
+    padding: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left:  0%;
+
+}
+
+.tausta6
+{
+    width: 75%;
+    
+    background-color: rgb(221, 221, 221);
+    padding: 1px;
+
+}

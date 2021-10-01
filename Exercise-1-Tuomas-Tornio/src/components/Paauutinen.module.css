@@ -1,0 +1,84 @@
+
+.Teksti
+{
+    display: flex;
+font-size: 20px;
+margin-left:  8%;
+padding: 20px;
+flex-wrap: wrap;
+width: 70%;
+
+}
+
+.Otso
+{
+    display: flex;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left:  8%;
+    flex-wrap: wrap;
+ 
+ 
+
+
+}
+.Paatyyli
+{
+    float: left;
+    display: flex;
+    flex-flow: row wrap;
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+flex-wrap: wrap;
+margin-left: 7.2%;
+
+text-align: left;
+margin-top: 0;
+
+background-color: white;
+
+margin-right:  auto;
+margin-top: auto;
+padding: 10px;
+
+
+
+
+  
+
+
+}
+
+.tausta2
+{
+    width: 100%;
+    
+    background-color: black;
+    padding: 1px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left:  0%;
+
+
+
+}
+
+.Paatausta
+{
+    background-color: white;
+
+}
+
+.Teksti2
+{
+    display: flex;
+font-size: 20px;
+margin-left:  10%;
+padding: 5px;
+flex-wrap: wrap;
+width: 70%;
+font-weight: bolder;
+color: rgb(255, 0, 0);
+
+}

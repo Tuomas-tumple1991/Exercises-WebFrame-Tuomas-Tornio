@@ -1,0 +1,83 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Epiphone",
+        "model": "Slash",
+        "type": "Les Paul",
+        "price": 899,
+        "rating": 4.5,
+        "image": "Epiphone.PNG",
+        "promos": [
+          " Quality instrument made by Epiphone"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "ESP",
+        "model": "T-80",
+        "type": "Les Paul",
+        "price": 1222,
+        "rating": 4,
+        "image": "ESP.PNG"
+       
+      },
+      {
+        "id": 3,
+        "name": "Gibson",
+        "model": "Les custom",
+        "type": "Les Paul",
+        "price": 3499,
+        "rating": 5,
+        "image": "Gibson.PNG",
+        "promos": [
+          "Classic Gibson model with quality features"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Gretch",
+        "model": "Classic round",
+        "type": "Les Paul",
+        "price": 750,
+        "rating": 2,
+        "image": "Gretch.PNG",
+        "promos": []
+      },  
+        {
+            "id": 5,
+            "name": "Harley",
+            "model": "Les custom",
+            "type": "Les Paul",
+            "price": 220,
+            "rating": 1,
+            "image": "HARLEY1.PNG",
+            "promos": [
+              "Standard Harley Benton model"
+            ] },
+            {
+                "id": 6,
+                "name": "Prs",
+                "model": "Prs Cumstom 22",
+                "type": " Prs Les Paul",
+                "price": 2400,
+                "rating": 5,
+                "image": "Prs.PNG",
+                "promos": [
+                  "Paul Reed Smith, Paul's choise"
+                ]},
+                {
+                    "id": 7,
+                    "name": "Supro",
+                    "model": "Vibratone custom",
+                    "type": "Les Paul vibratone",
+                    "price": 1100,
+                    "rating": 3,
+                    "image": "Supro.PNG",
+                    "promos": [
+                      "Vibratone guitar for blues players"
+                    ]
+      }
+    ] 
+    
+  }
