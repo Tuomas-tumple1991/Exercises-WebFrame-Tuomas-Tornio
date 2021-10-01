@@ -1,0 +1,85 @@
+.headerBackground {
+    background-color: rgb(0, 25, 76);
+    
+
+}
+
+
+.container {
+display: flex;
+
+width: 85%;
+
+color: white;
+align-items: center;
+margin-left:  auto;
+margin-right: auto;
+
+
+}
+.brand {
+    
+    font-size: 35px;
+    font-weight: 800;
+    font-weight: bold;
+    
+}
+.container2{
+    display: flex;
+    flex: space-evenly;
+
+    width: 10%;
+    color: white;
+    align-items: normal;
+    margin-left: 2%;
+    
+    
+
+}
+.container3{
+    
+    display: flex;
+    justify-content: flex-end;
+    width: 30%;
+    color: white;
+    align-items: left;
+    margin-left: 10%;
+    
+    
+    
+}
+
+.container4{
+
+    display: flex;
+    align-items: left;
+    margin-left: 25%;
+
+    
+    color: black;
+    background-color:rgb(255, 255, 255) ;
+    background-origin: border-box;
+    border-radius: 30%;
+    
+   
+    
+}
+.container5
+{
+  padding: 20px;
+  border-radius: 22;
+
+}
+
+.container7
+{
+display: block;
+
+}
+  
+    
+
+    
+    
+    
+

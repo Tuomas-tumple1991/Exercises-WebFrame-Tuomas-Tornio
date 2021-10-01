@@ -1,0 +1,42 @@
+.header {
+
+    font-size: 18px;
+    font-weight: 700;
+
+
+}
+.header2 {
+
+    font-size: 18px;
+    font-weight: 700;
+
+}
+
+
+
+
+.container {
+    width: 83%;
+    background-color: rgb(65, 150, 164);
+    color: white;
+    padding: 20px;
+    margin-bottom: -20px;
+    margin-top: 10px;
+    margin-left:  auto;
+    margin-right: auto;
+
+
+
+}
+.container6 {
+    width:83%;
+    background-color: rgb(13, 25, 97);
+    color: white;
+    padding: 20px;
+    margin-bottom: 1px;
+    margin-top: 0px;
+    margin-left:  auto;
+    margin-right: auto;
+
+
+}
